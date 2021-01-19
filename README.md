@@ -6,7 +6,7 @@ IEEE Transactions on Power Systems, Vol.32, pp. 2817-2827
 This application provides a clear demostration of the effectiveness of the LOF analysis algorithm discussed in the paper above,
 allowing users to import their own .csv timeseries measurement data and see the detection result from this algorithm.
 
-Contributors
-Dongqi Wu, Graduate Student, Texas A&M University
-Meng Wu, Assistant Professor, ASU
-Le Xie, Professor, Texas A&M University
+Contributors\
+Dongqi Wu, Graduate Student, Texas A&M University\
+Meng Wu, Assistant Professor, ASU\
+Le Xie, Professor, Texas A&M University\
