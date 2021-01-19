@@ -9,4 +9,4 @@ allowing users to import their own .csv timeseries measurement data and see the 
 Contributors\
 Dongqi Wu, Graduate Student, Texas A&M University\
 Meng Wu, Assistant Professor, ASU\
-Le Xie, Professor, Texas A&M University\
+Le Xie, Professor, Texas A&M University
